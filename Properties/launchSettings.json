@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pdfCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Data\\data.json\""
+    }
+  }
+}
